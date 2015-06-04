@@ -26,11 +26,7 @@ Of course, you'll still need to put your tags and pixels into the container, via
 
 = Where do I find my GTM code? =
 
-An answer to that question.
-
-= In the list of containers, it is listed in the ID column, and will have the format GTM-XXXXXX =
-
-Answer to foo bar dilemma.
+In the list of containers, it is listed in the ID column, and will have the format GTM-XXXXXX
 
 == Screenshots ==
 
