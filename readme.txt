@@ -3,7 +3,7 @@ Contributors: adam.ainsworth
 Donate link: http://mesklin.net/
 Tags: google tag manager, analytics, pixel
 Requires at least: 3.0.1
-Tested up to: 4.2
+Tested up to: 4.2.2
 Stable tag: 0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -31,7 +31,7 @@ In the list of containers, it is listed in the ID column, and will have the form
 == Screenshots ==
 
 1. The WP TagMan options screen
-2. An example output from Google Tag Assitant Chrome plugin)
+2. An example output from Google Tag Assitant (Chrome plugin)
 
 == Changelog ==
 
